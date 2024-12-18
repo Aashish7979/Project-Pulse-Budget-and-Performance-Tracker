@@ -1,3 +1,5 @@
+**Project Pulse: Budget & Performance Tracker**
+
 **Objective**  
 The goal of this project is to design an interactive Power BI dashboard for AI Variant that evaluates department budgets, monitors project performance, and identifies risks of overspending or underperformance. This tool will deliver actionable insights to help management ensure departments operate within their two-year budgetary constraints while addressing any emerging performance concerns.  
 
